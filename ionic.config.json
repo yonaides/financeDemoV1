@@ -1,0 +1,8 @@
+{
+  "name": "financeDemo",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "7144dd8d"
+}
